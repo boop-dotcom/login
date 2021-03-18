@@ -2,7 +2,7 @@ body
 {  
     margin: 0;  
     padding: 0;  
-    background-color:#2a9fd6;  
+    background-color: #4a4a4a;  
     font-family: 'Arial';  
 }  
 .login{  
@@ -11,7 +11,7 @@ body
         margin: auto;  
         margin: 20 0 0 450px;  
         padding: 80px;  
-        background: #4a4a4a;  
+        background: #2a9fd6; 
         border-radius: 15px ;  
           
 }  
@@ -55,5 +55,5 @@ span{
 }  
 a{  
     float: right;  
-    background-color: #000;  
+    background-color: #4a4a4a;  
 }  

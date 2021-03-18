@@ -2,7 +2,7 @@ body
 {  
     margin: 0;  
     padding: 0;  
-    background-color: #4a4a4a;  
+    background-color: #000;  
     font-family: 'Arial';  
 }  
 .login{  
@@ -12,7 +12,7 @@ body
         margin: 20 0 0 450px;  
         padding: 80px;  
         background: #2a9fd6; 
-        border-radius: 15px ;  
+        border-radius: 3px ;  
           
 }  
 h2{  
@@ -28,14 +28,14 @@ label{
     width: 300px;  
     height: 30px;  
     border: none;  
-    border-radius: 3px;  
+    border-radius: 15;  
     padding-left: 8px;  
 }  
 #Pass{  
     width: 300px;  
     height: 30px;  
     border: none;  
-    border-radius: 3px;  
+    border-radius: 15px;  
     padding-left: 8px;  
       
 }  
@@ -54,6 +54,5 @@ span{
     font-size: 17px;  
 }  
 a{  
-    float: right;  
-    background-color: #4a4a4a;  
+    float: right;   
 }  
